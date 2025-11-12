@@ -9,10 +9,8 @@ function Navbar() {
     password: "",
   });
 
- 
  const [userData, setUserData] = useState({});
 
- 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((formData) => ({ ...formData, [name]: value }));
@@ -27,7 +25,7 @@ function Navbar() {
   //   });
   // };
 
- 
+
   // const handleSubmit = (e) => {
   //   e.preventDefault();
   //   setShowModal(false); 
@@ -51,8 +49,6 @@ function Navbar() {
             <div className="text-indigo-600 font-extrabold text-2xl">
               Abhishek
             </div>
-
-        
             <div className="flex space-x-8 justify-center">
               <a
                 href="#"
