@@ -1,0 +1,69 @@
+[
+  {
+  "logo": "data:image/png;base64,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",
+    "title": "Netflix UK",
+    "country": "United Kingdom",
+    "contact": "Moddox Blackmore",
+    "email": "Mblaclmore@netflix.com",
+    "status": "Actived",
+    "date": "11 marc 2021 9:37 AM",
+    "balance": "15,000.00 GBP",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+},
+{
+
+ "logo": "data:image/png;base64,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",  
+"title": "HBO GO",
+    "country": "Spain",
+    "contact": "Leonardo Barker",
+    "email": "leonardo barker@hbo.com",
+    "status": "pending",
+    "date": "11 mar 2021 9:37 AM",
+    "balance": "0.00 EUR",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+},
+{
+  "logo": "https://cdn.worldvectorlogo.com/logos/spotify-2.svg",
+    "title": "Glovo UA",
+    "country": "Ukraine",
+    "contact": "Wallance Lambert",
+    "email": "eugene.smith@glovo.com",
+    "status": "blocked",
+    "date": "11 marc 2021 9:37 AM",
+    "balance": "0.00 PLN",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+},
+{
+  "logo": "",
+    "title": "DHL Parcel",
+    "country": "Poland",
+    "contact": "Khadeeja Daniels",
+    "email": "kavalski.daniel@dhl.com",
+    "status": "Deactived",
+    "date": "11 marc 2021 9:37 AM",
+    "balance": "0.00 PLN",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+},
+{
+  "logo": "https://cdn.worldvectorlogo.com/logos/spotify-2.svg",
+    "title": "Disney UK",
+    "country": "United Kingdom",
+    "contact": "Moddox Blackmore",
+    "email": "wallan.lambert@disney.com",
+    "status": "Actived",
+    "date": "11 marc 2021 9:37 AM",
+    "balance": "10,000.00 GBP",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+},
+{
+  "logo": "https://cdn.worldvectorlogo.com/logos/spotify-2.svg",
+    "title": "Spotify PL",
+    "country": "Poland",
+    "contact": "Moddox Blackmore",
+    "email": "michal.bialy@spotify.com",
+    "status": "Actived",
+    "date": "11 marc 2021 9:37 AM",
+    "balance": "5,000.00 GBP",
+    "action": "<FiEdit2 /> <AiOutlineDelete /> "
+}
+]
